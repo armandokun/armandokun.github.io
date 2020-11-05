@@ -1,92 +1,106 @@
 [
   {
-   "label_ID": 1,
-   "label_title": "Information about Vinted",
-   "forums": [
-    {
-        "forum_ID": 1,
-        "forum_title": "Forum rules and getting started!",
-        "forum_body": "These are the rules of the forum! Something EVERYONE should read before use ;) Here you'll find everything you need to know to get you started on Vinted!",
+    "group_id": 1,
+    "group_title": "Information about Vinted",
+    "forums": [
+      {
+        "id": 1,
+        "title": "Forum rules and getting started!",
+        "body": "These are the rules of the forum! Something EVERYONE should read before use ;) Here you'll find everything you need to know to get you started on Vinted!",
         "username": "secondchancesboutique",
         "topics_amount": 12,
         "comments_amount": 123,
         "days_ago": 3
-    },
-    {
-      "forum_id": 2,
-      "forum_title": "Vinted News!",
-      "forum_body": "This forum section is archived and remains for information only!",
-      "username": "secondchancesboutique",
-      "topics_amount": 12,
-      "comments_amount": 123,
-      "days_ago": 3
-  }
-  ]
-},
-  {
-    "label_ID": 2,
-    "label_title": "Vinted Parents about Vinted",
-   "forums": [
-    {
-        "forum_ID": 3,
-        "forum_title": "Introduce yourself!!",
-        "forum_body": "Before you start, introduce yourself to other Vinted Moms :)!",
+      },
+      {
+        "id": 2,
+        "title": "Vinted News!",
+        "body": "This forum section is archived and remains for information only!",
         "username": "secondchancesboutique",
         "topics_amount": 12,
         "comments_amount": 123,
         "days_ago": 3
-    },
-    {
-      "forum_ID": 4,
-      "forum_title": "Pregnancy and birth!!",
-      "forum_body": "Share your experience or ask questions about pregnancy and birth here!",
-      "username": "secondchancesboutique",
-      "topics_amount": 12,
-      "comments_amount": 123,
-      "days_ago": 3
+      }
+    ]
   },
   {
-    "forum_ID": 5,
-    "forum_title": "Pregnancy and birth!!",
-    "forum_body": "Share your experience or ask questions about pregnancy and birth here!",
-     "username": "secondchancesboutique",
-    "topics_amount": 12,
-    "comments_amount": 123,
-    "days_ago": 3
-  },
-  {
-  "forum_ID": 6,
-  "forum_title": "I'm looking for... Kids' clothing and accessories",
-  "forum_body": "Are you looking for special garment for your baby or child? Here we share the items we're looking for. :)",
-  "username": "secondchancesboutique",
-  "topics_amount": 12,
-  "comments_amount": 123,
-  "days_ago": 3
-  },
-  {
-  "forum_ID": 7,
-  "forum_title": "I'm looking for... Kids' clothing and accessories",
-  "forum_body": "Are you looking for special garment for your baby or child? Here we share the items we're looking for. :)",
-  "username": "secondchancesboutique",
-  "topics_amount": 12,
-  "comments_amount": 123,
-  "days_ago": 3
-   }
-  ]
-},
-  {
-    "label_ID": 3,
-    "label_title": "Vinted news",
-   "forums": [
-    {
-        "forum_ID": 9,
+    "group_id": 2,
+    "group_title": "Vinted Parents about Vinted",
+    "forums": [
+      {
+        "id": 3,
+        "title": "Introduce yourself!!",
+        "body": "Before you start, introduce yourself to other Vinted Moms :)!",
+        "username": "secondchancesboutique",
+        "topics_amount": 12,
+        "comments_amount": 123,
+        "days_ago": 3
+      },
+      {
+        "id": 4,
+        "title": "Pregnancy and birth!!",
+        "body": "Share your experience or ask questions about pregnancy and birth here!",
+        "username": "secondchancesboutique",
+        "topics_amount": 12,
+        "comments_amount": 123,
+        "days_ago": 3
+      },
+      {
+        "id": 5,
+        "title": "Pregnancy and birth!!",
+        "body": "Share your experience or ask questions about pregnancy and birth here!",
+        "username": "secondchancesboutique",
+        "topics_amount": 12,
+        "comments_amount": 123,
+        "days_ago": 3
+      },
+      {
+        "id": 6,
+        "title": "I'm looking for... Kids' clothing and accessories",
+        "body": "Are you looking for special garment for your baby or child? Here we share the items we're looking for. :)"
+      },
+      {
+        "forum_ID": 6,
         "forum_title": "I'm looking for... Kids' clothing and accessories",
         "forum_body": "Are you looking for special garment for your baby or child? Here we share the items we're looking for. :)",
         "username": "secondchancesboutique",
         "topics_amount": 12,
         "comments_amount": 123,
         "days_ago": 3
-    }
-  ]
-}
+      },
+      {
+        "id": 7,
+        "title": "I'm looking for... Kids' clothing and accessories",
+        "body": "Are you looking for special garment for your baby or child? Here we share the items we're looking for. :)",
+        "username": "secondchancesboutique",
+        "topics_amount": 12,
+        "comments_amount": 123,
+        "days_ago": 3
+      },
+      {
+        "forum_ID": 7,
+        "forum_title": "I'm looking for... Kids' clothing and accessories",
+        "forum_body": "Are you looking for special garment for your baby or child? Here we share the items we're looking for. :)",
+        "username": "secondchancesboutique",
+        "topics_amount": 12,
+        "comments_amount": 123,
+        "days_ago": 3
+      }
+    ]
+  },
+  {
+    "group_id": 3,
+    "group_title": "Vinted news",
+    "forums": [
+      {
+        "id": 9,
+        "title": "I'm looking for... Kids' clothing and accessories",
+        "body": "Are you looking for special garment for your baby or child? Here we share the items we're looking for. :)",
+        "username": "secondchancesboutique",
+        "topics_amount": 12,
+        "comments_amount": 123,
+        "days_ago": 3
+      }
+    ]
+  }
 ]
