@@ -60,9 +60,9 @@
         "body": "Are you looking for special garment for your baby or child? Here we share the items we're looking for. :)"
       },
       {
-        "forum_ID": 6,
-        "forum_title": "I'm looking for... Kids' clothing and accessories",
-        "forum_body": "Are you looking for special garment for your baby or child? Here we share the items we're looking for. :)",
+        "id": 6,
+        "title": "I'm looking for... Kids' clothing and accessories",
+        "body": "Are you looking for special garment for your baby or child? Here we share the items we're looking for. :)",
         "username": "secondchancesboutique",
         "topics_amount": 12,
         "comments_amount": 123,
@@ -78,9 +78,9 @@
         "days_ago": 3
       },
       {
-        "forum_ID": 7,
-        "forum_title": "I'm looking for... Kids' clothing and accessories",
-        "forum_body": "Are you looking for special garment for your baby or child? Here we share the items we're looking for. :)",
+        "id": 7,
+        "title": "I'm looking for... Kids' clothing and accessories",
+        "body": "Are you looking for special garment for your baby or child? Here we share the items we're looking for. :)",
         "username": "secondchancesboutique",
         "topics_amount": 12,
         "comments_amount": 123,
